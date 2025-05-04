@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (ConsoleApplication108.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  DDoS.cpp
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS.cpp(42,24): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  DDoS_Source.cpp
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS_Source.cpp(63,30): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS_Source.cpp(72,30): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS_Source.cpp(80,30): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  Kod Üretiliyor...
+  DDoS.vcxproj -> C:\Users\PC\Desktop\Project DDoS - Kopya\Debug\DDoS.exe

@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (ConsoleApplication108.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Client.cpp
+  Client_Source.cpp
+  Kod Üretiliyor...
+  Client.vcxproj -> C:\Users\PC\Desktop\Project DDoS - Kopya\Debug\Client.exe

@@ -1,0 +1,12 @@
+﻿  DDoS.cpp
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS.cpp(42,24): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  DDoS_Source.cpp
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS_Source.cpp(63,30): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS_Source.cpp(72,30): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\PC\Desktop\Project DDoS - Kopya\DDoS\DDoS_Source.cpp(80,30): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+  Kod üretiliyor
+  1006 of 1021 functions (98.5%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  DDoS.vcxproj -> C:\Users\PC\Desktop\Project DDoS - Kopya\Release\DDoS.exe
