@@ -1,9 +1,0 @@
-﻿  Server.cpp
-C:\Users\PC\Desktop\Project DDoS - Kopya\Server\Server.cpp(177,24): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
-  Server_Source.cpp
-  Kod üretiliyor
-  1184 of 1199 functions (98.7%) were compiled, the rest were copied from previous compilation.
-    14 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
-  Kodun üretilmesi tamamlandı
-  Server.vcxproj -> C:\Users\PC\Desktop\Project DDoS - Kopya\Release\Server.exe
